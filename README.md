@@ -8,6 +8,6 @@ Comments and suggestions are acceptable
 ---
 
 ### Here we will discuss the below points:
-* What are the standards of creating API signatures.
-* What are the possible ways of creating project structure.
-* What are the standards of defining Java classes, naming variables.
+* What are the standards of creating `API signatures`.
+* What are the possible ways of creating `Project structure`.
+* What are the standards of defining `Java classes, naming variables`.
