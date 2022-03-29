@@ -1,8 +1,8 @@
 # Restful API Signatures
 
-REST stands for representational state transfer. Let's see how.
+REST stands for representational state transfer. Let's see how it works.
 
-For Example, User is you resource. What operation you can perform over your user object. You can `create` a user, you can `read` that user, you can `update` the user and you can `delete` the users. You can perform `CRUD` over you object. 
+For Example, User is you resource. What operation you can perform over your user object. You can `create` a user, you can `read` that user, you can `update` the user and you can `delete` the users. You will perform basic `CRUD` over you object. 
 
 How will you write the API? Your API should be writen in such a way that anyone can tell, what the basic operation API is doing just by looking at you signatures or contracts. 
 
